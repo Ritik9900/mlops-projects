@@ -1,41 +1,46 @@
-# My MLOps & Big Data Project Portfolio
+# My 10-Week MLOps Project Portfolio
 
-Hello! I'm [Your Name], a [Your Title, e.g., Data Engineer / MLOps Enthusiast] passionate about building efficient and scalable data solutions. This repository contains a collection of 10 mini-projects I've built to demonstrate my skills in MLOps, Big Data, and cloud technologies.
+Hello! I'm Ritik Ranjan, a AI/ML Engineer passionate about building, deploying, and monitoring robust machine learning systems.
 
----
-
-### 🚀 Tech Stack
-
-Here are some of the key technologies I've worked with in these projects:
-
-* **Languages:** Python, SQL, Scala (etc.)
-* **Big Data:** Apache Spark, Hadoop, Kafka, Airflow (etc.)
-* **MLOps:** Docker, Kubernetes, MLflow, DVC, CI/CD (GitHub Actions) (etc.)
-* **Cloud:** AWS (S3, EMR), GCP (BigQuery), Azure (etc.)
-* **Database:** PostgreSQL, MongoDB (etc.)
+This repository contains a collection of 10 practical MLOps projects, each tackling a different stage of the ML lifecycle—from data versioning and feature stores to CI/CD, scaling, and LLMops.
 
 ---
 
-### Projects Showcase
+### 🚀 Core Technologies
 
-Here is a quick overview of my 10 projects. Click on any project name to see its detailed README, code, and presentation.
+This portfolio demonstrates hands-on experience with:
 
-| Project | Description | Key Technologies Used |
+* **Cloud:** Google Cloud (Vertex AI)
+* **CI/CD:** GitHub Actions, CML (Continuous Machine Learning)
+* **Versioning:** DVC (Data Version Control)
+* **Feature Store:** Feast
+* **Experiment Tracking:** MLflow
+* **Deployment:** Docker, Kubernetes (k8s)
+* **Responsible AI:** Fairlearn, SHAP
+* **LLMops:** LLM Finetuning (Gemini)
+
+---
+
+### 📂 Projects Showcase
+
+Each folder contains a detailed README, the complete source code and a link to the video presentation.
+
+| Project | Description | Key Technologies |
 | :--- | :--- | :--- |
-| **[Project 1: Real-Time Tweet Analysis](./project-01-tweet-analysis/)** | A data pipeline to ingest, process, and visualize tweet sentiment in real-time. | `Kafka`, `Spark Streaming`, `Python` |
-| **[Project 2: ML Model Deployment CI/CD](./project-02-ml-ci-cd/)** | A full CI/CD pipeline to automatically train, test, and deploy a Scikit-learn model. | `GitHub Actions`, `Docker`, `MLflow` |
-| **[Project 3: Customer Churn Prediction](./project-03-customer-churn/)** | An end-to-end ML project to predict customer churn, from data cleaning to model serving. | `Pandas`, `Scikit-learn`, `FastAPI` |
-| **[Project 4: ...](./project-04-name/)** | ... | ... |
-| **[Project 5: ...](./project-05-name/)** | ... | ... |
-| **[Project 6: ...](./project-06-name/)** | ... | ... |
-| **[Project 7: ...](./project-07-name/)** | ... | ... |
-| **[Project 8: ...](./project-08-name/)** | ... | ... |
-| **[Project 9: ...](./project-09-name/)** | ... | ... |
-| **[Project 10: ...](./project-10-name/)**| ... | ... |
+| **[Week 1: Vertex AI Pipeline](https://youtu.be/LttAHy7WVaE)** | Setting up a foundational ML pipeline on Google Cloud's Vertex AI. | `GCP`, `Vertex AI` |
+| **[Week 2: DVC Integration](https://youtu.be/7zUl-s-UsUk)** | Incorporating DVC for robust data version control. | `DVC`, `Data Versioning` |
+| **[Week 3: Feast Integration](https://youtu.be/ECYsK8VLIto)** | Integrating the Feast feature store for centralized feature management. | `Feast`, `Feature Store` |
+| **[Week 4: CI/CD Automation](https://youtu.be/J0Fo4TjaOks)** | Automating ML workflows with GitHub Actions, Pytest, and CML. | `GitHub Actions`, `Pytest`, `CML` |
+| **[Week 5: MLflow Hyperparameters](https://youtu.be/RV9qAoziVTg)** | Using MLflow for hyperparameter tuning and experiment tracking. | `MLflow` |
+| **[Week 6: ML API CD Pipeline](https://youtu.be/W3cD59egvKg)** | Building a full CD pipeline for an ML API using Docker and Kubernetes. | `Docker`, `Kubernetes`, `CML`, `API` |
+| **[Week 7: Scaling & Bottlenecks](https://youtu.be/5M38ADVETh0)** | Load testing the pipeline to observe bottlenecks and optimize for scale. | `Scaling`, `Performance Testing` |
+| **[Week 8: Data Poisoning](https://youtu.be/m_X8L8L2m84)** | Simulating a data poisoning attack to understand model security. | `ML Security`, `Adversarial Attacks` |
+| **[Week 9: Explainable AI](https://youtu.be/oKoOMu4ky_M)** | Integrating Fairlearn and SHAP for model explainability and bias detection. | `SHAP`, `Fairlearn`, `XAI` |
+| **[Week 10: LLMops Finetuning](https://youtu.be/e7qdDBF8Aqo)** | A practical LLMops project for cost-effective finetuning of a Gemini model. | `LLMops`, `Gemini`, `Finetuning` |
 
 ---
 
 ### 📫 Contact
 
-* **LinkedIn:** [your-linkedin-url](https://www.linkedin.com/in/your-profile)
-* **Email:** your.email@example.com
+* **LinkedIn:** [ritik-ranjan9900](https://www.linkedin.com/in/ritik-ranjan9900/)
+* **Email:** ritik.ranjan9900@gmail.com
